@@ -1,4 +1,5 @@
 # Resume-using-basic-HTML
-<br>
+
 Author : Drishti Gupta
+<br/>
 Github : @thedrishtigupta
